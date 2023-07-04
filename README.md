@@ -11,3 +11,10 @@ This work is licensed under a
 
 # Musei-Civici-Podcast
 Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
+
+---
+
+# To-Do
+- Scrivere il copione del podcast.
+- Fare revisione del copione.
+- Se possibile registrare podcast.
