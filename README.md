@@ -2,8 +2,15 @@
 Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
 
 ---
+
 # Status
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/actions/workflows/LaTeX_Action.yml/badge.svg?branch=main&event=push)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/actions/workflows/LaTeX_Action.yml)
+
+---
+
+# In caso di nessuna Release
+- Scarica i [documenti](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/workflows/LaTeX_Action/main/Copione.zip) dimostrativi.
+
 ---
 
 # License
