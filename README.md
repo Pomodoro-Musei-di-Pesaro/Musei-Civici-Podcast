@@ -27,5 +27,5 @@ This work is licensed under a
 
 ---
 
-# Aggiunte future
+# Lavori futuri
 - registrazione del podcast.
