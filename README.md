@@ -28,4 +28,4 @@ This work is licensed under a
 ---
 
 # Lavori futuri
-- registrazione del podcast.
+- Registrazione del podcast.
