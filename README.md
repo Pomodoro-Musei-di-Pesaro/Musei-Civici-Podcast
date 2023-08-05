@@ -11,8 +11,8 @@ Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
 ---
 
 # Analytics
-[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/traffic/traffic-Musei-Civici-Podcast/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/tree/traffic#-Musei-Civici-Podcast)
-[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/traffic/traffic-Musei-Civici-Podcast/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/tree/traffic#-Musei-Civici-Podcast)
+[![views](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/traffic/traffic-Musei-Civici-Podcast/views.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast)
+[![clones](https://raw.githubusercontent.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/traffic/traffic-Musei-Civici-Podcast/clones.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast)
 [![Github all releases](https://img.shields.io/github/downloads/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/total.svg)](https://GitHub.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/releases/)
 
 ---
