@@ -35,7 +35,7 @@ Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
 ---
 
 # Lavori futuri
-- Registrazione del podcast.
+-   Registrazione del podcast.
 
 ---
 
