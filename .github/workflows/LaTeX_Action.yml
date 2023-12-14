@@ -21,7 +21,7 @@ jobs:
           mv Script/Musei_Civici_Podcast_Script.pdf Script/Copione_Podcast_Musei_Civici.pdf
           mv Script/Musei_Civici_Podcast_Script_Enlarged.pdf Script/Copione_Podcast_Musei_Civici_Ingrandito.pdf
       - name: Caricamento della Release temporanea
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with: 
           name: Copione
           path: |
