@@ -1,6 +1,6 @@
 # Podcast sui Musei Civici
 
-Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
+Concept Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast)
@@ -39,12 +39,6 @@ Podcast riguardo le opere contenute nei Musei Civici di Pesaro.
 ## In caso di nessuna Release
 
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20i%20documenti%20dimostrativi-blue?style=for-the-badge&logo=download&logoColor=white "Documenti")](https://nightly.link/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/workflows/LaTeX_Action/main/Copione.zip)
-
----
-
-## Lavori futuri
-
-- Registrazione del podcast.
 
 ---
 
