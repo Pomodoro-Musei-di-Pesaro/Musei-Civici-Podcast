@@ -2,14 +2,8 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/pulls",
-    "title": "/pulls",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/issues",
@@ -20,6 +14,12 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/graphs/commit-activity",
     "title": "/graphs/commit-activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/pulls",
+    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }
