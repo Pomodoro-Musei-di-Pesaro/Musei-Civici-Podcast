@@ -5043,11 +5043,6 @@
       "uniques": 10
     },
     {
-      "timestamp": "2026-05-06T00:00:00Z",
-      "count": 14,
-      "uniques": 9
-    },
-    {
       "timestamp": "2026-05-05T00:00:00Z",
       "count": 26,
       "uniques": 11
@@ -5056,6 +5051,11 @@
       "timestamp": "2026-05-07T00:00:00Z",
       "count": 19,
       "uniques": 12
+    },
+    {
+      "timestamp": "2026-05-06T00:00:00Z",
+      "count": 14,
+      "uniques": 9
     },
     {
       "timestamp": "2026-05-08T00:00:00Z",
