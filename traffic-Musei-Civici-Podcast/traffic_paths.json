@@ -34,5 +34,11 @@
     "title": "/commit/main",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/releases/tag/v1.0",
+    "title": "/releases/tag/v1.0",
+    "count": 1,
+    "uniques": 1
   }
 ]
